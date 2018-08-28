@@ -11,9 +11,9 @@ This repository contains and tracks the list of courses i am taking at Make Scho
 
 ### Term 1 Courses
 
-- [ ] MOB 1.1 : Intro to Swift
-- [ ] BEW 1.1 : Intro to RESTful and Resourceful MVC Architecture
-- [ ] SPD 1.1 : Introduction to Product Development
+- [x] MOB 1.1 : Intro to Swift
+- [x] BEW 1.1 : Intro to RESTful and Resourceful MVC Architecture
+- [x] SPD 1.1 : Introduction to Product Development
 
 ### Term 2 Courses
 
