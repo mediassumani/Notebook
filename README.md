@@ -60,6 +60,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] ExpressJS
   - [ ] Flask (independantly)
   - [ ] API Design
+  - [ ] JSON
  
 * DataBase
   - [ ] MongoDB
