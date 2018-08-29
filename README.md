@@ -54,6 +54,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
 * WEB Back End
   - [ ] REST
   - [ ] Resources
+  - [ ] Authorization & Authentification
   - [ ] MVC
   - [ ] NodeJS
   - [ ] ExpressJS
