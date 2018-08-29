@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains and tracks the list of courses i am taking at Make School - Product College.
+This repository contains and tracks my two year plan at Make School - Product College.
 
 
 ## Year 1 Courses
@@ -41,4 +41,19 @@ This repository contains and tracks the list of courses i am taking at Make Scho
 - [ ] SPD 1.5 : Summer Product Development
 
 
+## Skills projected to Learn
 
+* Mobile iOS
+  - [ ] iOS
+  - [ ] CoreData
+  - [ ] JSON Parsing 
+  - [ ] Realm  
+  - [ ] NSCoder
+  - [ ] UserDefaults
+  - [ ] Keychain 
+  - [ ] Concurency and Parallelism 
+  
+* WEB Back End
+* Data Base
+* Computer Science Theories
+*
