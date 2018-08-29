@@ -45,15 +45,36 @@ This repository contains and tracks my two year plan at Make School - Product Co
 
 * Mobile iOS
   - [ ] iOS
-  - [ ] CoreData
-  - [ ] JSON Parsing 
-  - [ ] Realm  
+  - [ ] JSON Parsing  
   - [ ] NSCoder
   - [ ] UserDefaults
   - [ ] Keychain 
   - [ ] Concurency and Parallelism 
   
 * WEB Back End
-* Data Base
+  - [ ] REST
+  - [ ] Resources
+  - [ ] MVC
+  - [ ] NodeJS
+  - [ ] ExpressJS
+  - [ ] Flask (independantly)
+  - [ ] API Design
+ 
+* DataBase
+  - [ ] MongoDB
+  - [ ] CoreData
+  - [ ] Realm
+  - [ ] SQLite
+  
 * Computer Science Theories
-*
+  - [ ] Algorithms
+  - [ ] Data Structures
+  - [ ] Discrete Mathematics
+  
+* Programming Languages
+  - [ ] Python 
+  - [ ] Java (independantly)
+  - [ ] Swift
+  - [ ] C++ (independantly)
+  - [ ] Javascript
+
