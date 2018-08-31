@@ -74,9 +74,9 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Discrete Mathematics
   
 * Programming Languages
-  - [ ] Python 
+  - [ ] Python - For Alogrithms and Data Structures
   - [ ] Java (independantly)
-  - [ ] Swift
+  - [ ] Swift - For Mobile iOS
   - [ ] C++ (independantly)
-  - [ ] Javascript
+  - [ ] Javascript - For BackEnd
 
