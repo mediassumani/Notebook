@@ -56,8 +56,8 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Resourceful Routing
   - [ ] Authorization & Authentification
   - [ ] MVC
-  - [ ] NodeJS
-  - [ ] ExpressJS
+  - [ ] Node.js
+  - [ ] Express.js
   - [ ] Flask (independantly)
   - [ ] RESTFul API Design
   - [ ] JSON
