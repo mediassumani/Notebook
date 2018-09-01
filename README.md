@@ -1,4 +1,4 @@
- # Make School Courses
+ # MakeTracker
 
 ![alt text](https://image.slidesharecdn.com/gettingstarted-ms-ios-151012022221-lva1-app6891/95/make-school-2017-mastering-ios-development-1-638.jpg?cb=1444616613)
 
@@ -52,8 +52,8 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Concurency and Parallelism 
   
 * WEB Back End
-  - [ ] REST
-  - [ ] Resources
+  - [ ] RESTFul Server
+  - [ ] Resourceful Routing
   - [ ] Authorization & Authentification
   - [ ] MVC
   - [ ] NodeJS
@@ -65,7 +65,6 @@ This repository contains and tracks my two year plan at Make School - Product Co
 * DataBase
   - [ ] MongoDB
   - [ ] CoreData
-  - [ ] Realm
   - [ ] SQLite
   
 * Computer Science Theories
@@ -74,9 +73,9 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Discrete Mathematics
   
 * Programming Languages
-  - [ ] Python -
+  - [ ] Python 
   - [ ] Java (independantly)
-  - [ ] Swift - 
+  - [ ] Swift 
   - [ ] C++ (independantly)
   - [ ] Javascript
 
