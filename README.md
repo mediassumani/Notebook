@@ -45,8 +45,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
 
 * Mobile iOS
   - [ ] iOS
-  - [ ] JSON Parsing  
-  - [ ] NSCoder
+  - [ ] JSON Parsing 
   - [ ] UserDefaults
   - [ ] Keychain 
   - [ ] Concurency and Parallelism 
@@ -66,6 +65,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] MongoDB
   - [ ] CoreData
   - [ ] SQLite
+  - [ ] Realm
   
 * Computer Science Theories
   - [ ] Algorithms
