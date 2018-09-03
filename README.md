@@ -46,8 +46,8 @@ This repository contains and tracks my two year plan at Make School - Product Co
 * Mobile iOS
   - [ ] iOS
   - [ ] JSON Parsing 
-  - [ ] UserDefaults
-  - [ ] Keychain 
+  - [ ] Local Persistance
+  - [ ] Networking in iOS
   - [ ] Concurency and Parallelism 
   
 * WEB Back End
