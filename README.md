@@ -48,6 +48,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] JSON Parsing 
   - [ ] Local Persistance
   - [ ] Networking in iOS
+  - [ ] Reactive Programming
   - [ ] Concurency and Parallelism 
   
 * WEB Back End
@@ -55,8 +56,10 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Resourceful Routing
   - [ ] Authorization & Authentification
   - [ ] MVC
-  - [ ] Node.js
-  - [ ] Express.js
+  - [x] Node.js
+  - [x] Express.js
+  - [ ] Mocha.js
+  - [x] Chai.js
   - [ ] Flask (independantly)
   - [ ] RESTFul API Design
   - [ ] JSON
