@@ -63,6 +63,8 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Flask (independantly)
   - [ ] RESTFul API Design
   - [ ] JSON
+  - [ ] Rails
+ 
  
 * DataBase
   - [ ] MongoDB
@@ -81,6 +83,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Swift 
   - [ ] C++ (independantly)
   - [ ] Javascript
+  - [ ] Ruby
   
 * Software Product Development
   - [ ] Git & GitHub
