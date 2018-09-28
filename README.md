@@ -41,7 +41,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
 - [ ] SPD 1.5 : Summer Product Development
 
 
-## Skills projected to Learn
+## Skills, Languages, and Tools
 
 * Mobile iOS
   - [ ] iOS
