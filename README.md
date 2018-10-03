@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains and tracks my two year plan at Make School - Product College.
+This repository contains and tracks my two year plan at Make School - Product College. If you'd like to make your own, just fork this repository and edit your README.md
 
 
 ## Year 1 Courses
