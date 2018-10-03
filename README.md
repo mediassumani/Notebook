@@ -1,6 +1,6 @@
  # MakeTracker
 
-![alt text](data:image/png)
+![alt text](https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-2d722dfb3c7b7739244c107e60d181c14856a3366de6f765969aa6a5db3009ae.svg)
 
 ## Overview
 
