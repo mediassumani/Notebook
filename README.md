@@ -85,11 +85,11 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Javascript
   - [ ] Ruby
   
-* Software Product Development
+* Soft Skills
   - [ ] Git & GitHub
   - [ ] UI & UX
   - [ ] Team Software Project
   - [ ] Agile Product Development
   - [ ] Architecture & Inheriting Codebases
   - [ ] Company Onboarding
-  - [ ] Job Search & Interview Practice 
+  - [ ] Development -> Testing -> Production
