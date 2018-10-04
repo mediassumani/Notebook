@@ -45,6 +45,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
 
 * Mobile iOS
   - [ ] iOS
+  - [x] SpriteKit
   - [ ] JSON Parsing 
   - [ ] Local Persistance
   - [ ] Networking in iOS
