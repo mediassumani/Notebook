@@ -43,7 +43,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
 
 ## Skills, Languages, and Tools
 
-* Mobile iOS
+* ### Mobile iOS
   - [ ] Core iOS Frameworks
   - [x] SpriteKit
   - [ ] JSON Parsing 
@@ -52,7 +52,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Reactive Programming
   - [ ] Concurency and Parallelism 
   
-* WEB Back End
+* ### WEB Back End
   - [ ] RESTFul Server
   - [ ] Resourceful Routing
   - [ ] Authorization & Authentification
@@ -67,18 +67,18 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Rails
  
  
-* DataBase
+* ### DataBase
   - [ ] MongoDB
   - [ ] CoreData
   - [ ] SQLite
   - [ ] Realm
   
-* Computer Science Theories
+* ### Computer Science Theories
   - [ ] Algorithms
   - [ ] Data Structures
   - [ ] Discrete Mathematics
   
-* Programming Languages
+* ### Programming Languages
   - [ ] Python 
   - [ ] Java (independantly)
   - [ ] Swift 
@@ -86,7 +86,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Javascript
   - [ ] Ruby
   
-* ## Soft Skills
+* ### Soft Skills
   - [ ] Git & GitHub
   - [ ] UI & UX
   - [ ] Team Software Project
