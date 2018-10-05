@@ -86,7 +86,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Javascript
   - [ ] Ruby
   
-* Soft Skills
+* ## Soft Skills
   - [ ] Git & GitHub
   - [ ] UI & UX
   - [ ] Team Software Project
