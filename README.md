@@ -74,8 +74,8 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Realm
   
 * ### Computer Science Theories
-  - [ ] Algorithms
-  - [ ] Data Structures
+  - [ ] Algorithms(Searching, Sorting, Recursion)
+  - [ ] Data Structures(LinkedList, Stack, Queue, Sets, Hash Tables)
   - [ ] Discrete Mathematics
   
 * ### Programming Languages
