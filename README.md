@@ -53,8 +53,8 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Concurency and Parallelism 
   
 * ### WEB Back End
-  - [ ] RESTFul Server
-  - [ ] Resourceful Routing
+  - [x] RESTFul Server
+  - [x] Resourceful Routing
   - [ ] Authorization & Authentification
   - [ ] MVC
   - [x] Node.js
