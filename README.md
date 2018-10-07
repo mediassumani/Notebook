@@ -61,7 +61,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [x] Express.js
   - [ ] Mocha.js
   - [x] Chai.js
-  - [ ] Flask (independantly)
+  - [ ] Flask (*** independantly)
   - [ ] RESTFul API Design
   - [ ] JSON
   - [ ] Rails
@@ -80,17 +80,17 @@ This repository contains and tracks my two year plan at Make School - Product Co
   
 * ### Programming Languages
   - [ ] Python 
-  - [ ] Java (independantly)
+  - [ ] Java (*** independantly)
   - [ ] Swift 
-  - [ ] C++ (independantly)
+  - [ ] C++ (*** independantly)
   - [ ] Javascript
   - [ ] Ruby
   
 * ### Soft Skills
   - [ ] Git & GitHub
   - [ ] UI & UX
-  - [ ] Team Software Project
   - [ ] Agile Product Development
+  - [ ] SCRUM 
   - [ ] Architecture & Inheriting Codebases
   - [ ] Company Onboarding
   - [ ] Development -> Testing -> Production
