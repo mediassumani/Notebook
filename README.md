@@ -11,9 +11,9 @@ This repository contains and tracks my two year plan at Make School - Product Co
 
 ### Term 1 Courses
 
-- [x] MOB 1.1 : Intro to Swift
-- [x] BEW 1.1 : Intro to RESTful and Resourceful MVC Architecture
-- [x] SPD 1.1 : Introduction to Product Development
+- [x] <a href="https://github.com/Product-College-Courses/MOB-1.1-Introduction-to-Swift">MOB 1.1 : Intro to Swift</a>
+- [x] <a href="https://github.com/Product-College-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/10.%20API%20RESTful%20Routes">BEW 1.1 : Intro to RESTful and Resourceful MVC Architecture</a>
+- [x] <a href="https://github.com/Product-College-Courses/SPD-1.1-Introduction-To-Software-Product-Development">SPD 1.1 : Introduction to Product Development</a>
 
 ### Term 2 Courses
 
