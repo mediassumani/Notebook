@@ -68,7 +68,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
  
  
 * ### DataBase
-  - [ ] MongoDB
+  - [ ] <a href="https://github.com/MediBoss/MongoDB">MongoDB</a>
   - [ ] CoreData
   - [ ] SQLite
   - [ ] Realm
@@ -77,11 +77,12 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] <a href="https://github.com/MediBoss/Algorithms">Algorithms(Searching, Sorting, Recursion)</a>
   - [ ] <a href="https://github.com/MediBoss/DataStructures">Data Structures(LinkedList, Stack, Queue, Sets, Hash Tables)</a>
   - [ ] Discrete Mathematics
+  - [ ] <a href="https://github.com/MediBoss/Scripts">Scripting</a>
   
 * ### Programming Languages
-  - [ ] Python 
+  - [ ] <a href="https://github.com/MediBoss/Learning-Python">Python</a> 
   - [ ] Java (*** independantly)
-  - [ ] Swift 
+  - [ ] <a href ="https://github.com/MediBoss/Swift-core-concepts">Swift</a> 
   - [ ] C++ (*** independantly)
   - [ ] Javascript
   - [ ] Ruby
