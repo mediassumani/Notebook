@@ -28,17 +28,10 @@ This repository contains and tracks my two year plan at Make School - Product Co
 - [ ] SPD 1.3 : Team Software Project
 
 ### Term 4 Courses
-
-- [ ] MOB 1.4 : Connected iOS Applications
-- [ ] CS 2.1 : Advanced Trees & Sorting Algorithms
+- [ ] MOB 2.1 : Local Persistence in iOS
+- [ ] BEW 1.2 : Authentication, Authorization, and Advanced Queries
 - [ ] SPD 1.4 : Architecture & Inheriting Codebases
 
-### Term 5 Courses
-
-
-- [ ] MOB 2.1 : Local Persistence in iOS
-- [ ] CS 2.2 : Advanced Recursion & Graphs
-- [ ] SPD 1.5 : Summer Product Development
 
 
 ## Technical Skills
