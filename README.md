@@ -17,9 +17,9 @@ This repository contains and tracks my two year plan at Make School - Product Co
 
 ### Term 2 Courses
 
-- [ ] MOB 1.2 : Introduction to iOS Development in Swift
-- [ ] CS 1.2 : How Data Structures Work
-- [ ] SPD 1.2 : Agile Product Development & UX/UI
+- [x] MOB 1.2 : Introduction to iOS Development in Swift
+- [x] CS 1.2 : How Data Structures Work
+- [x] SPD 1.2 : Agile Product Development & UX/UI
 
 ### Term 3 Courses
 
