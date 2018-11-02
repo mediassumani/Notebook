@@ -38,7 +38,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
 
 * ### Mobile iOS
   - [ ] Core iOS Frameworks
-   * ** UIKit, Foundation, SpriteKit, Core Animation
+   *** UIKit, Foundation, SpriteKit, Core Animation
   - [ ] Networking Layer JSON Parsing
   - [ ] Third parties framewors
    * ** Alamofire, Moya, etc...
