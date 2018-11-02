@@ -38,46 +38,44 @@ This repository contains and tracks my two year plan at Make School - Product Co
 
 * ### Mobile iOS
   - [ ] Core iOS Frameworks
-   * ** hi
-  - [x] SpriteKit
-  - [ ] JSON Parsing 
-  - [ ] Local Persistance
-  - [ ] Networking in iOS
+   * ** UIKit, Foundation, SpriteKit, Core Animation
+  - [ ] Networking Layer JSON Parsing
+  - [ ] Third parties framewors
+   * ** Alamofire, Moya, etc...
+  - [ ] Persistance & Syncronization
+   * ** NSCoder, UserDefaults, Keychain, CoreData, Realm
   - [ ] Reactive Programming(RXSwift)
   - [ ] Concurency, Multithreading and Parallelism 
   
-* ### WEB Back End
+* ### BackEnd WEB
   - [x] RESTFul Server
+  - [ ] RESTFul API Design
   - [x] Resourceful Routing
   - [ ] Authorization & Authentification
-  - [ ] MVC
-  - [x] Node.js
-  - [x] Express.js
-  - [ ] Mocha.js
-  - [x] Chai.js
+  - [ ] MVC & Client Server Architecture
+  - [x] Node.js & Express.js
+  - [x] Mocha.js & Chai.js
   - [ ] Flask (*** independantly)
-  - [ ] RESTFul API Design
   - [ ] JSON
   - [ ] Rails
  
  
 * ### DataBase
-  - [ ] <a href="https://github.com/MediBoss/MongoDB">MongoDB</a>
+  - [ ] MongoDB
   - [ ] CoreData
-  - [ ] SQLite
   - [ ] Realm
   
 * ### Computer Science Theories
   - [ ] <a href="https://github.com/MediBoss/Algorithms">Algorithms(Searching, Sorting, Recursion)</a>
   - [ ] <a href="https://github.com/MediBoss/DataStructures">Data Structures(LinkedList, Stack, Queue, Sets, Hash Tables)</a>
-  - [ ] Discrete Mathematics
+  - [ ] Probabilities & Discrete Mathematics
   - [ ] <a href="https://github.com/MediBoss/Scripts">Scripting</a>
   
 * ### Programming Languages
   - [ ] <a href="https://github.com/MediBoss/Learning-Python">Python</a> 
-  - [ ] Java (*** independantly)
+  - [ ] Java (independant review)
   - [ ] <a href ="https://github.com/MediBoss/Swift-core-concepts">Swift</a> 
-  - [ ] C++ (*** independantly)
+  - [ ] C++ (independant review)
   - [ ] Javascript
   - [ ] Ruby
   
@@ -87,5 +85,4 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] Agile Product Development
   - [ ] SCRUM 
   - [ ] Architecture & Inheriting Codebases
-  - [ ] Company Onboarding
   - [ ] Development -> Testing -> Production
