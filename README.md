@@ -42,8 +42,8 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] JSON Parsing 
   - [ ] Local Persistance
   - [ ] Networking in iOS
-  - [ ] Reactive Programming
-  - [ ] Concurency and Parallelism 
+  - [ ] Reactive Programming(RXSwift)
+  - [ ] Concurency, Multithreading and Parallelism 
   
 * ### WEB Back End
   - [x] RESTFul Server
