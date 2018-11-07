@@ -55,7 +55,6 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] MVC & Client Server Architecture
   - [x] Node.js & Express.js
   - [x] Mocha.js & Chai.js
-  - [ ] Flask (*** independantly)
   - [ ] JSON
   - [ ] Rails
  
