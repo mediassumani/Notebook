@@ -52,7 +52,7 @@ This repository contains and tracks my two year plan at Make School - Product Co
   - [ ] RESTFul API Design
   - [x] Resourceful Routing
   - [ ] Authorization & Authentification
-  - [ ] MVC & Client Server Architecture
+  - [ ] MVC & SOA Architecture
   - [x] Node.js & Express.js
   - [x] Mocha.js & Chai.js
   - [ ] JSON
