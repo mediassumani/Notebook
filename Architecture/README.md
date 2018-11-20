@@ -1,10 +1,10 @@
-# Software Architecture
+Software Architecture
 
-# Overview
+### Overview
 
 This repository contains my notes and thoughts from Anand  Pillai's Software Architecture with Python book.
 
-## Outline 
+### Outline 
 
 #### Chapter 1 - Principles of Software Architecture
 
