@@ -1,7 +1,5 @@
  # Notebook
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paper-notes.svg/512px-Paper-notes.svg.png)
-
 ## Overview
 
 
