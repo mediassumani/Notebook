@@ -1,4 +1,6 @@
-## Software Architecture
+![alt text](https://cdn-images-1.medium.com/max/1200/1*M22DR3WPqbWXWidYIq2GwA.png)
+
+## Software Architecture </br>
 
 ### Overview
 
