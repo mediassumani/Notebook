@@ -1,14 +1,22 @@
-# Software-Architecture
+# Software Architecture
 
 # Overview
 
-### Chapter 1 - Principles of Software Architecture
+This repository contains my notes and thoughts from Anand  Pillai's Software Architecture with Python book.
 
-### Chapter 2 - Writting Modifiable and Readable Code
+## Outline 
 
-### Chapter 3 - Testability - Writiing Testable Codes
+#### Chapter 1 - Principles of Software Architecture
 
-### Chapter 4 -
+#### Chapter 2 - Writting Modifiable and Readable Code
+
+#### Chapter 3 - Testability - Writiing Testable Codes
+
+#### Chapter 4 -
+
+#### Chapter 5 - Writting Software that scales
+
+
 
 
 # Tools
