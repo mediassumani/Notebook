@@ -72,5 +72,5 @@ Concurency referes to the amount of work that gets done simoultenously by a syst
   - Example : A financial institution processing multiple transactions at the same time.
   
   - Asynchronous Processing : Operrations are performed asynchronously with no specific order of tasks with respect of time.
-   - -- Async process works by grabbing a task from the task queue, schedule it to perfom in the future, and expect a callback
+   * -- Async process works by grabbing a task from the task queue, schedule it to perfom in the future, and expect a callback
     - Example : Node.js' 
