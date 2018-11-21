@@ -64,3 +64,7 @@ A software is testable if it gives up(exposes) its faults easily to the testers.
 Concurency referes to the amount of work that gets done simoultenously by a system, instead of sequentially.
 
 * <i>Increating the concurency of a system often increases its scalability</i>
+
+  - Multithreading: rewritting the applcation to perf
+     - 
+  - Multiprocessing: Running the app in multiple processes instead of one. A program that performs multiple CPU-Intensive computations would benefit more from Multiprocessing.
