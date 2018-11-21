@@ -59,12 +59,18 @@ A software is testable if it gives up(exposes) its faults easily to the testers.
 #### Latency
 
 
-#### Concurency
+#### Concurency and Parallelism
 
 Concurency referes to the amount of work that gets done simoultenously by a system, instead of sequentially.
 
 * <i>Increating the concurency of a system often increases its scalability</i>
 
-  - Multithreading: rewritting the applcation to perf
-     - 
+  - Multithreading: rewritting the applcation to perform parallel tasks in different threads.
+   - Thread : A simple seqeunce of programming instruction that is performed by a CPU
+   
   - Multiprocessing: Running the app in multiple processes instead of one. A program that performs multiple CPU-Intensive computations would benefit more from Multiprocessing.
+  - Example : A financial institution processing multiple transactions at the same time.
+  
+  - Asynchronous Processing : Operrations are performed asynchronously with no specific order of tasks with respect of time.
+   - Async process works by grabbing a task from the task queue, schedule it to perfom in the future, and expect a callback
+    - Example : Node.js' 
