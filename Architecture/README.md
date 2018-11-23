@@ -29,12 +29,12 @@ This repository contains my notes and thoughts from Anand  Pillai's Software Arc
 
 *  **Tips on refactoring codes**
 
- - Fix the complex code first - Improves code quality and reduces code smells
- - Do an analysis check on the code -
- - Fix code smells next - function/class/module
- - Run checkers (pylint, Flake8, pyflake,etc...)
- - Fix low hanging fruits - code style and conventions
- - Perform final check using the tools above
+   - Fix the complex code first - Improves code quality and reduces code smells
+   - Do an analysis check on the code -
+   - Fix code smells next - function/class/module
+   - Run checkers (pylint, Flake8, pyflake,etc...)
+   - Fix low hanging fruits - code style and conventions
+   - Perform final check using the tools above
 
 
 ## CHP 3 - Testability - Writiing Testable Codes
