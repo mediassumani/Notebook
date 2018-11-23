@@ -43,17 +43,20 @@ A software is testable if it gives up(exposes) its faults easily to the testers.
 
 ## CHP 4 -
 
-## CHP 5 - Writting Software that scales
+### CHP 5 - Writting Software that scales
 
-#### Scalability
+* **Scalability**
+  - Scale up : When a sytem scale by making better use of resource inside a compute node.
+  - Scale out : When a system scale by adding more nodes to it or spreading their communication over multiple machines.
 
- - Scale up : When a sytem scale by making better use of resource inside a compute node
+* **Throughput**
+  - The capacity of the system expressed as the number of successfully completed operations in a given time.
+   - <i>Example : 120 reports per minutes</i> 
 
-#### Throughput
- The 
 
-
-#### Latency
+* **Latency**
+  - The time required to perform some action or to produce some results. Measured in unit of time (sec, min, hours)
+   - Example : it took 0.3 seconds to loop the array
 
 #### Concurency and Parallelism
 
