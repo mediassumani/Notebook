@@ -62,6 +62,8 @@ A software is testable if it gives up(exposes) its faults easily to the testers.
 
 Concurency referes to the amount of work that gets done simoultenously by a system, instead of sequentially.
 
+<i>Note : Both concurency and parrallelism get work done simoultenously. However, in concurency, the tasks do not need to be done at the same time, just need to be scheduled to be done simoultenously. Whereas Parallel reuests require that tasks must execute togethre at the same time.</i>
+
 * <i>Increating the concurency of a system often increases its scalability</i>
 
   - Multithreading: rewritting the applcation to perform parallel tasks in different threads.
