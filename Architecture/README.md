@@ -55,7 +55,6 @@ A software is testable if it gives up(exposes) its faults easily to the testers.
 
 #### Latency
 
-![alt text](https://cdn-images-1.medium.com/max/1200/1*M22DR3WPqbWXWidYIq2GwA.png)
 #### Concurency and Parallelism
 
 Concurency referes to the amount of work that gets done simoultenously by a system, instead of sequentially.
