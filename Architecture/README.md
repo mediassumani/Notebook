@@ -1,44 +1,40 @@
 ![alt text](https://cdn-images-1.medium.com/max/1200/1*M22DR3WPqbWXWidYIq2GwA.png)
 
-## Software Architecture </br>
+# Software Architecture </br>
 
-### Overview
+## Overview
 
 This repository contains my notes and thoughts from Anand  Pillai's Software Architecture with Python book.
 
-### Outline 
-
-#### Chapter 1 - Principles of Software Architecture
-
-#### Chapter 2 - Writting Modifiable and Readable Code
-
-#### Chapter 3 - Testability - Writiing Testable Codes
-
-#### Chapter 4 -
-
-#### Chapter 5 - Writting Software that scales
+## Table of Contents 
 
 
+* [Chapter 1 - Principles of Software Architecture](#ch1)
+* [Chapter 2 - Writting Modifiable and Readable Code](#ch2)
+* [Chapter 3 - Testability - Writiing Testable Codes](#ch3)
+* [Chapter 4 - ](#ch4)
+* [Chapter 5 - Writting Software that scales](#ch5)
 
-
-# Tools
+### Tools
 
 * Pylint - Gives informations about code smells
 * Flake8 - Gives informations about broken conventions and code smells
 * Pyflake - basic checker for that reports obvious syntax and logics errors
+* time - put in front of python3 file_name.py to get timing of your program
+
+[Back to top ^](#)
 
 
+### CHP 2 - Writting Modifiable and Readable Code:
 
-## CHP 2 - Writting Modifiable and Readable Code:
+*  **Tips on refactoring codes**
 
-### Tips on refactoring codes
-
-* Fix the complex code first - Improves code quality and reduces code smells
-* Do an analysis check on the code -
-* Fix code smells next - function/class/module
-* Run checkers (pylint, Flake8, pyflake,etc...)
-* Fix low hanging fruits - code style and conventions
-* Perform final check using the tools above
+ - Fix the complex code first - Improves code quality and reduces code smells
+ - Do an analysis check on the code -
+ - Fix code smells next - function/class/module
+ - Run checkers (pylint, Flake8, pyflake,etc...)
+ - Fix low hanging fruits - code style and conventions
+ - Perform final check using the tools above
 
 
 ## CHP 3 - Testability - Writiing Testable Codes
@@ -54,11 +50,12 @@ A software is testable if it gives up(exposes) its faults easily to the testers.
  - Scale up : When a sytem scale by making better use of resource inside a compute node
 
 #### Throughput
+ The 
 
 
 #### Latency
 
-
+![alt text](https://cdn-images-1.medium.com/max/1200/1*M22DR3WPqbWXWidYIq2GwA.png)
 #### Concurency and Parallelism
 
 Concurency referes to the amount of work that gets done simoultenously by a system, instead of sequentially.
