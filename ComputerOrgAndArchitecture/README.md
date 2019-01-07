@@ -25,9 +25,11 @@
   
 ### Chapter 1 - Introduction
 
-* Computer Organization - Addresses issues such as control signals, signaling methods, and memory types. How does a comp. work?
-* Computer Architecture - Focuses on the structure and behavior of the computer system. How do I design a computer?
-* Principle of Equivalence of Hardware and Sofware - <i>any task done by software can also be done using hardware, and any hardware operation performed directly by hardware can be done using software.</i>
+* <b>Computer Organization</b> - Addresses issues such as control signals, signaling methods, and memory types. How does a comp. work?
+* <b>Computer Architecture</b> - Focuses on the structure and behavior of the computer system. How do I design a computer?
+* <b>Principle of Equivalence of Hardware and Sofware</b> - <i>any task done by software can also be done using hardware, and any hardware operation performed directly by hardware can be done using software.</i>
+* <b>Bus</b> - Responsible for all data movement internal to the computer.
+* <b>Ports</b>
 
 #### Basicl Level components needed to build a computing system:
 
