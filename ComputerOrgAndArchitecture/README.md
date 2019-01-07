@@ -2,9 +2,9 @@
 <i>By Linda Null and Julia Lobur</i>
 
 ### Why Learn about Computer System...
-  - -- In case we need a program to be faster
-  - -- In case we need a program to be efficient
-  - -- Or when the App isn't doing precisly what it's intended
+  * In case we need a program to be faster
+  * In case we need a program to be efficient
+  * Or when the App isn't doing precisly what it's intended
   
   <i>Successful computer professionals continually add to their knowledge about how computers work.</i>
   
@@ -31,6 +31,6 @@
 
 #### Basicl Level components needed to build a computing system:
 
-  * -- A processor - Interprets and executes programs.
-  * -- A memory - Stores both data and programs.
-  * -- A mechanism - Trasnfers data to and from the outside world.
+  * A processor - Interprets and executes programs.
+  * A memory - Stores both data and programs.
+  * A mechanism - Trasnfers data to and from the outside world.
