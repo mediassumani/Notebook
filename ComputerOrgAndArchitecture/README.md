@@ -29,7 +29,9 @@
 * <b>Computer Architecture</b> - Focuses on the structure and behavior of the computer system. How do I design a computer?
 * <b>Principle of Equivalence of Hardware and Sofware</b> - <i>any task done by software can also be done using hardware, and any hardware operation performed directly by hardware can be done using software.</i>
 * <b>Bus</b> - Responsible for all data movement internal to the computer.
-* <b>Ports</b>
+* <b>Ports</b> - Allow movement of data to and from devices external to the computer.
+* <b>Graphics Processing Units(GPU)</b> - Handles all calculations to render graphics.
+
 
 #### Basicl Level components needed to build a computing system:
 
