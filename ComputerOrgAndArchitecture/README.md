@@ -31,6 +31,7 @@
 * <b>Bus</b> - Responsible for all data movement internal to the computer.
 * <b>Ports</b> - Allow movement of data to and from devices external to the computer.
 * <b>Graphics Processing Units(GPU)</b> - Handles all calculations to render graphics.
+* <b>Control unit</b> - makes sure that instructions are decoded and executed properlyand that data is moved where when it should be.
 
 
 #### Basicl Level components needed to build a computing system:
