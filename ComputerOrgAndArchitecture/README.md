@@ -32,6 +32,13 @@
 * <b>Ports</b> - Allow movement of data to and from devices external to the computer.
 * <b>Graphics Processing Units(GPU)</b> - Handles all calculations to render graphics.
 * <b>Control unit</b> - makes sure that instructions are decoded and executed properlyand that data is moved where when it should be.
+* <b>SaaS</b> - (Software as a Service) is when a cloud provider offer an entire application over the Internet, with no components installed locally. The consumer does not maintain or concerened over its infrastructure. E.g : Gmail, Netflic, DropBox
+
+* <b>PaaS</b> - (Platform as a Service) PaaS provides server hardware, operating system, database services to company  like to have more control over their applications on a cloud-hosted environment.
+
+* <b>IaaS</b> - (Infrastructure as a Service) provides ONLY server hardware, secure network access to the servres for Company whose staff are capable to manage operating system and database Software. 
+
+* <b>SLA</b> - (Service level agreement) is the agreement reached by both parties that keeps them accountable of the services provided.
 
 
 #### Basicl Level components needed to build a computing system:
